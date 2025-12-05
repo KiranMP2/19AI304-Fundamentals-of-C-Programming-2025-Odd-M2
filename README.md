@@ -56,9 +56,11 @@
 ### Step 11:
   Stop
 # Program:
-```#include <stdio.h>
-
+```
+#include <stdio.h>
 int main() {
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     float math, science, english, average;
 
     printf("Enter marks for Math: ");
@@ -91,7 +93,8 @@ int main() {
 }
 ```
 # Output:
-<img width="320" height="216" alt="image" src="https://github.com/user-attachments/assets/9b1027fe-d8e4-4fd2-9817-e14660618705" />
+<img width="475" height="469" alt="image" src="https://github.com/user-attachments/assets/4a34d3cd-c69e-4c10-a67d-366fff75671d" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -128,6 +131,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 #include <stdio.h>
 
 int main() {
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     int number = 15, i;
 
     for(i = 1; i <= 10; i++) {
@@ -138,7 +143,8 @@ int main() {
 }
 ```
 # Output:
-<img width="163" height="360" alt="image" src="https://github.com/user-attachments/assets/e11ff0f2-b6c9-4542-aece-04ac26c1c74c" />
+<img width="413" height="480" alt="image" src="https://github.com/user-attachments/assets/a5c43688-7189-42d9-b060-7546469a72b3" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -184,10 +190,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Program:
 ```
 #include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int n, i = 2, f = 0;
-
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     printf("Enter a number: ");
     scanf("%d", &n);
 
@@ -208,9 +216,8 @@ int main() {
 }
 ```
 # Output:
-<img width="230" height="127" alt="image" src="https://github.com/user-attachments/assets/4f70e234-c066-4d65-bd59-556e7597dc11" />
+<img width="451" height="425" alt="image" src="https://github.com/user-attachments/assets/28a8f1f2-d86b-4754-8cb2-5da023ac12de" />
 
-<img width="230" height="127" alt="image" src="https://github.com/user-attachments/assets/6bf3f3b1-1310-4a67-9b50-ed6a22c5977c" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -264,7 +271,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 int main() {
     int i, j, n, k;
-    
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     printf("Enter value of n: ");
     scanf("%d", &n);
 
@@ -292,7 +300,8 @@ int main() {
 }
 ```
 # Output:
-<img width="230" height="378" alt="image" src="https://github.com/user-attachments/assets/6cd21e05-0969-47e8-b52c-a7eafa0a64ae" />
+<img width="412" height="451" alt="image" src="https://github.com/user-attachments/assets/6417607c-f1ba-4934-9d32-fcb4545e7da4" />
+
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -353,7 +362,8 @@ int main() {
 
 int main() {
     int i, j;
-
+    printf("NAME:KIRAN MP\n");
+    printf("REG NO:212224230123\n");
     printf("0\n");
 
     for(i = 7; i >= 1; i--) {
@@ -372,7 +382,8 @@ int main() {
 }
 ```
 # Output:
-<img width="348" height="312" alt="image" src="https://github.com/user-attachments/assets/5e95d2c3-db17-44bb-9662-56cc4a56b1f5" />
+<img width="421" height="474" alt="image" src="https://github.com/user-attachments/assets/9827b869-e9cc-4a86-b385-374469f18392" />
+
 
 
 # Result:
